@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.result-covid{
+    margin: 140px 50px 0 50px;
+    font-family: 'Noto Sans', sans-serif;
+}
+
+h1{
+    font-size: 30px;
+    color: #404040;
+}
+
+.result{
+    margin-top: 80px;
+    width: 644px;
+    margin-left: 5px;
+}
+
+.content{
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid #ccc;
+    color: #404040;
+    padding: 12px 25px 10px 14px;
+}
